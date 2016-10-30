@@ -1,6 +1,6 @@
 "use strict";
 
-var rainbowdashImg = "http://img06.deviantart.net/3be1/i/2012/054/f/3/rainbow_dash_icon_by_lockhe4rt-d4qoms7.png";
+var rainbowdashImg = "http://img12.deviantart.net/d2a8/i/2013/040/d/e/rainbow_dash_halloween_by_naaieditions-d5uc04m.png";
 
 // Felix default copyright text
 var lovebyCopyright = document.querySelector(".lovebyCopyright");
