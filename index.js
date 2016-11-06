@@ -1,4 +1,4 @@
-const rainbowdashImg = "http://img12.deviantart.net/d2a8/i/2013/040/d/e/rainbow_dash_halloween_by_naaieditions-d5uc04m.png";
+const rainbowdashImg = "http://img06.deviantart.net/3be1/i/2012/054/f/3/rainbow_dash_icon_by_lockhe4rt-d4qoms7.png";
 
 // Felix default copyright text
 const lovebyCopyright = document.querySelector(".lovebyCopyright");
